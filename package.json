@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-labs",
+  "version": "1.0.0",
+  "description": "Tailwind labs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.4",
+    "vite": "^2.3.6"
+  }
+}
